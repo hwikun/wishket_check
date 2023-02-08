@@ -1,6 +1,8 @@
 # wishket_check
  Job scrapper
  
+ 2020.06 ~ 
+ 
  
 ![t_me-wishket_check](https://user-images.githubusercontent.com/42212568/217547360-94ea0adc-273f-4df6-bb9c-c970faa93467.jpg)
 
